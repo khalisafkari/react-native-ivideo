@@ -4,12 +4,12 @@
   "description": "react-native-ivideo is a react-native-video based video player component.",
   "main": "index.js",
   "dependencies": {
-    "@react-native-community/slider": "^2.0.0",
+    "@react-native-community/slider": "*",
     "prop-types": "^15.6.2",
-    "react-native-linear-gradient": "^2.5.6",
-    "react-native-orientation-locker": "^1.1.6",
+    "react-native-linear-gradient": "*",
+    "react-native-orientation-locker": "*",
     "react-native-video": "*",
-    "styled-components": "^3.4.10"
+    "styled-components": "*"
   },
   "author": {
     "name": "lizhooh",
